@@ -1,0 +1,27 @@
+{
+    "name": "Mini:Maqueen Original Color:Bit 1",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "maqueen": "github:dfrobot/pxt-maqueen#v1.7.0",
+        "colorbit": "github:xuefengedu/colorbittest#261b7b226d8d6f48fece95aae892d32cbd396467"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.16",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
