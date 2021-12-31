@@ -6,7 +6,7 @@
         "radio": "*",
         "microphone": "*",
         "maqueen": "github:dfrobot/pxt-maqueen#v1.7.0",
-        "colorbit": "github:xuefengedu/colorbittest#261b7b226d8d6f48fece95aae892d32cbd396467"
+        "colorbit": "github:51bit/ColorBit#v0.1.3"
     },
     "files": [
         "main.blocks",
